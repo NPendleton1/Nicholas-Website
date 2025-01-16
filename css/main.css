@@ -1,5 +1,8 @@
 /* Place CSS styles here */
 body{
-    color: rgb(29, 185, 11);
-    background-color: #181818;
+    color: #F2F2F2;
+    font-family: cursive;
+    background-color: #262626;
+    font-size: 30px;
+    background-image: url(../img/nick-image.png);
 }
