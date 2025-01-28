@@ -1,8 +1,32 @@
 /* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
 body{
-    color: #F2F2F2;
-    font-family: cursive;
-    background-color: #262626;
+    color: #1b1b1b;
+    background-color: #efefef;
     font-size: 30px;
-    background-image: url(../img/nick-image.png);
+}
+
+.headers-1 {
+color: #252525;
+text-align: center;
+font-family:'Courier New', Courier, monospace;
+}
+
+
+.hero-banners {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    width: 80%
+
+
+}
+footer {
+    background-color: rgb(0, 46, 5);
+    color: rgb(192, 166, 20);
+    padding: 20px;
+    text-align: center;
 }
